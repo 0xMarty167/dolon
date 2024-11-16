@@ -8,7 +8,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Example](#example)
-- [Contributing](#contributing)
 - [License](#license)
 - [Limitations](#limitations)
 - [Acknowledgments](#acknowledgments)
@@ -181,7 +180,7 @@ Provided with standard [MIT License](./LICENSE)
 
 ## Limitations
 
-- Limirations of Dolon:
+- Limitations of Dolon:
    - Port List: Scans a predefined list of common ports. It does not support custom port ranges.
    - OS Detection: Basic and may not accurately determine the operating system.
    - Permissions: May require elevated permissions to scan certain ports.
