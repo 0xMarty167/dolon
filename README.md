@@ -1,4 +1,4 @@
-# Dolon Port Scanner
+# Dolon Port Scanner (Port Scanner in C)
 
 ![Dolon Banner](https://via.placeholder.com/800x200.png?text=Dolon+Port+Scanner)
 
@@ -197,7 +197,6 @@ Provided with standard [MIT License](./LICENSE)
        - Nmap: A powerful network scanning tool that inspired the creation of Dolon.
         - Various network security tutorials and resources that provided foundational knowledge.
 
-    - Tools and Resources:
-       - GitHub for version control and project hosting.
+    - Resources:
        - Stack Overflow for invaluable programming assistance and problem-solving.
-       - ChatGPT for commenting my code.
+       - ChatGPT for guidance
