@@ -44,7 +44,7 @@ Dolon was my very first project in C, created during my early days of learning p
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Marty167-sec/dolon.git
+   git clone https://github.com/0xMarty167/dolon.git
    ```
    and
    
