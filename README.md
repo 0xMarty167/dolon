@@ -1,6 +1,6 @@
 # Dolon Port Scanner (Port Scanner in C)
 
-![Dolon Banner](https://via.placeholder.com/800x200.png?text=Dolon+Port+Scanner)
+![Dolon Banner]([https://dummyimage.com/800x200/828282/fff.png&text=Dolon+Port+Scanner])
 
 ## Table of Contents
 - [Introduction](#introduction)
